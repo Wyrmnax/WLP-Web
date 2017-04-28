@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp1.1</TargetFramework>
+    <Authors>IBM</Authors>
+    <Company>IBM</Company>
+    <Product>Web Workload Pricer</Product>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\wwlp.domain\wwlp.Domain.csproj" />
+  </ItemGroup>
+
+</Project>
