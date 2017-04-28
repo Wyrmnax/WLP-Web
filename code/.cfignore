@@ -1,0 +1,6 @@
+.vs/
+.vscode/
+bin/
+obj/
+README.md
+vcap-local.json

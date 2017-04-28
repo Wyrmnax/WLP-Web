@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9341983C-2884-4DF2-AD90-451EBF09B6FF}"
+	ProjectSection(SolutionItems) = preProject
+		.cfignore = .cfignore
+		.gitignore = .gitignore
+		global.json = global.json
+		LICENSE = LICENSE
+		manifest.yml = manifest.yml
+		NuGet.Config = NuGet.Config
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{9D21D769-5798-4C8C-A17C-3F20ACAD2211}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Presentation", "1 - Presentation", "{D709064E-BEA0-4BAC-B846-D22EDEF424E6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Application", "2 - Application", "{CC888532-8CE9-4F2E-9D59-98BB916C9D6D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - Cross-cutting", "3 - Cross-cutting", "{2B7C8F00-FD27-45C1-868E-1B7BB6BA06E1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4 - Domain", "4 - Domain", "{2E565FEF-6F9F-4C6A-AC7B-1EBE9CAEF124}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5 - Infraestructure", "5 - Infraestructure", "{18CE7F85-D1FC-4BC6-BD13-050B1C131E2A}"
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D709064E-BEA0-4BAC-B846-D22EDEF424E6} = {9D21D769-5798-4C8C-A17C-3F20ACAD2211}
+		{CC888532-8CE9-4F2E-9D59-98BB916C9D6D} = {9D21D769-5798-4C8C-A17C-3F20ACAD2211}
+		{2B7C8F00-FD27-45C1-868E-1B7BB6BA06E1} = {9D21D769-5798-4C8C-A17C-3F20ACAD2211}
+		{2E565FEF-6F9F-4C6A-AC7B-1EBE9CAEF124} = {9D21D769-5798-4C8C-A17C-3F20ACAD2211}
+		{18CE7F85-D1FC-4BC6-BD13-050B1C131E2A} = {9D21D769-5798-4C8C-A17C-3F20ACAD2211}
+	EndGlobalSection
+EndGlobal
